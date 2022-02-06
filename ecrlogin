@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+AWS_REGION=$(python -c 'import boto3; print(boto3.Session().region_name)')
+AWS_ACCOUNT=$(aws sts get-caller-identity | jq -r .Account)
+aws ecr get-login-password --region $AWS_REGION | docker login   --username AWS    --password-stdin $AWS_ACCOUNT.dkr.ecr.$AWS_REGION.amazonaws.com
+
