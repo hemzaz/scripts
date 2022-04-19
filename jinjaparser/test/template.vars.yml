@@ -1,0 +1,7 @@
+---
+service_name: "ntripConnector"
+local_build: "yes"
+local_docker_path: "container/ntrip_docker/Dockerfile"
+remote_docker_path: "aws_uri"
+sidecar_service: "sidecar"
+entrypoint: ["NtripConnector", "/config/ntripClientCNF.yaml"]

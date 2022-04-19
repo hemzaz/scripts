@@ -1,0 +1,41 @@
+[
+    {
+        "caster": "products.igs-ip.net",
+        "disable_obs_health_check": true,
+        "ephemerisDatabaseUpload": true,
+        "extra_labels": {
+            "caster": "products.igs-ip.net"
+        },
+        "group": "prod-igs-net",
+        "mountpoint": "BCEP00DLR0",
+        "name": "IGS-IP",
+        "port": 2101,
+        "secure": false
+    },
+    {
+        "caster": "cddis-caster.gsfc.nasa.gov",
+        "disable_obs_health_check": true,
+        "ephemerisDatabaseUpload": true,
+        "extra_labels": {
+            "caster": "cddis-caster.gsfc.nasa.gov"
+        },
+        "group": "cddis-nasa-gov",
+        "mountpoint": "BCEP00DLR0",
+        "name": "CDDIS",
+        "port": 443,
+        "secure": true
+    },
+    {
+        "caster": "rt.igs.org",
+        "disable_obs_health_check": true,
+        "ephemerisDatabaseUpload": true,
+        "extra_labels": {
+            "caster": "rt.igs.org"
+        },
+        "group": "igs-rt",
+        "mountpoint": "BCEP00DLR0",
+        "name": "IGS-RT",
+        "port": 2101,
+        "secure": false
+    }
+]

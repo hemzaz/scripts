@@ -1,0 +1,10 @@
+/home/elad/PycharmProjects/deployment-foc/environments/foc-staging/generate_station_file.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/generate_station_file.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/obs/check_stations_locations_exists.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/obs/check_stations_mountpoint_exists.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/obs/get_number_of_station.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/obs/get_station_names.py
+/home/elad/PycharmProjects/deployment-foc/products/inputs/obs/observation-densifier/stations-remove-duplications.py
+/home/elad/PycharmProjects/deployment-foc/terraform/ntrip/split_stations_by_group.py
+/home/elad/PycharmProjects/deployment-foc/terraform/ssr/stations_to_receivers.py
+/home/elad/PycharmProjects/deployment-foc/terraform/users_to_stations/create_stations_with_users.py

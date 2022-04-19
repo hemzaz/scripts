@@ -1,0 +1,30 @@
+- name: IGS-IP
+  mountpoint: BCEP00DLR0
+  caster: products.igs-ip.net
+  group: "prod-igs-net"
+  extra_labels:
+    caster: products.igs-ip.net
+  port: 2101
+  secure: false
+  ephemerisDatabaseUpload: true
+  disable_obs_health_check: true
+- name: CDDIS
+  mountpoint: BCEP00DLR0
+  caster: cddis-caster.gsfc.nasa.gov
+  group: cddis-nasa-gov
+  port: 443
+  extra_labels:
+    caster: cddis-caster.gsfc.nasa.gov
+  secure: true
+  ephemerisDatabaseUpload: true
+  disable_obs_health_check: true
+- name: IGS-RT
+  mountpoint: BCEP00DLR0
+  caster: rt.igs.org
+  group: igs-rt
+  extra_labels:
+    caster: rt.igs.org
+  port: 2101
+  secure: false
+  ephemerisDatabaseUpload: true
+  disable_obs_health_check: true

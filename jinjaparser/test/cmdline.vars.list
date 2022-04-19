@@ -1,0 +1,5 @@
+service_name=ntripConnector
+local_build=yes
+local_docker_path=container/ntrip_docker/Dockerfile
+sidecar_service=sidecar
+remote_docker_path=aws_uri

@@ -1,0 +1,4 @@
+Jinja2==2.11.3
+jinja2_getenv_extension==1.0.1
+pytest==6.2.5
+PyYAML==6.0

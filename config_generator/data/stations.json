@@ -1,0 +1,1058 @@
+{
+  "stations": [
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "ABMF00GLP0",
+      "name": "ABMF",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "ACRG00GHA0",
+      "name": "ACRG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "ALBH00CAN0",
+      "name": "ALBH",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "ALGO00CAN0",
+      "name": "ALGO",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "AREG00PER0",
+      "name": "AREG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "ASCG00SHN0",
+      "name": "ASCG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "AUCK00NZL0",
+      "name": "AUCK",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "BIK000KGZ0",
+      "name": "BIK0",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "BRST00FRA0",
+      "name": "BRST",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "BRUX00BEL0",
+      "name": "BRUX",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "CAS100ATA0",
+      "name": "CAS1",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "CCJ200JPN0",
+      "name": "CCJ2",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "CHPG00BRA0",
+      "name": "CHPG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "COCO00AUS0",
+      "name": "COCO",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "CPVG00CPV0",
+      "name": "CPVG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "CUT000AUS0",
+      "name": "CUT0",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "DARW00AUS0",
+      "name": "DARW",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "DJIG00DJI0",
+      "name": "DJIG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "DUMG00ATA0",
+      "name": "DUMG",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "DYNG00GRC0",
+      "name": "DYNG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "ENAO00PRT0",
+      "name": "ENAO",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "GAMB00PYF0",
+      "name": "GAMB",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "GAMG00KOR0",
+      "name": "GAMG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "HARB00ZAF0",
+      "name": "HARB",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "JFNG00CHN0",
+      "name": "JFNG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "KERG00ATF0",
+      "name": "KERG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "KIR000SWE0",
+      "name": "KIR0",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "LPAL00ESP0",
+      "name": "LPAL",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "MAC100AUS0",
+      "name": "MAC1",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "MAJU00MHL0",
+      "name": "MAJU",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "MAO000USA0",
+      "name": "MAO0",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "MAW100ATA0",
+      "name": "MAW1",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "MAYG00MYT0",
+      "name": "MAYG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "METG00FIN0",
+      "name": "METG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "MOBS00AUS0",
+      "name": "MOBS",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "NICO00CYP0",
+      "name": "NICO",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "NKLG00GAB0",
+      "name": "NKLG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "NRC100CAN0",
+      "name": "NRC1",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "OBE400DEU0",
+      "name": "OBE4",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "OHI300ATA0",
+      "name": "OHI3",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "OWMG00NZL0",
+      "name": "OWMG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "PRDS00CAN0",
+      "name": "PRDS",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "PTGG00PHL0",
+      "name": "PTGG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "REUN00REU0",
+      "name": "REUN",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "REYK00ISL0",
+      "name": "REYK",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "RGDG00ARG0",
+      "name": "RGDG",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "RIO200ARG0",
+      "name": "RIO2",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "SALU00BRA0",
+      "name": "SALU",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "SASK00CAN0",
+      "name": "SASK",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "SCH200CAN0",
+      "name": "SCH2",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "SEYG00SYC0",
+      "name": "SEYG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "SGOC00LKA0",
+      "name": "SGOC",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "SGPO00USA0",
+      "name": "SGPO",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "SOD300FIN0",
+      "name": "SOD3",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "STJO00CAN0",
+      "name": "STJO",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "TLSE00FRA0",
+      "name": "TLSE",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "TONG00TON0",
+      "name": "TONG",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "ULAB00MNG0",
+      "name": "ULAB",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "UNSA00ARG0",
+      "name": "UNSA",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "UTQI00USA0",
+      "name": "UTQI",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    },
+    {
+      "caster": "www.igs-ip.net",
+      "extra_labels": {
+        "caster": "igs-ip-net"
+      },
+      "group": "igs-ip-net",
+      "mountpoint": "YELL00CAN0",
+      "name": "YELL",
+      "port": 80,
+      "secure": false,
+      "user": [
+        "gevbh1"
+      ],
+      "password": [
+        "Gr190511"
+      ]
+    },
+    {
+      "caster": "cddis-caster.gsfc.nasa.gov",
+      "extra_labels": {
+        "caster": "cddis-caster"
+      },
+      "group": "cddis-caster",
+      "mountpoint": "ZIM200CHE0",
+      "name": "ZIM2",
+      "port": 443,
+      "secure": true,
+      "user": [
+        "gbenhaimlear"
+      ],
+      "password": [
+        "onx@foVEA9@9G"
+      ]
+    }
+  ]
+}
